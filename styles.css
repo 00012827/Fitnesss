@@ -445,7 +445,7 @@ header .logo span{
        
     }
 
-    #menu{
+    header #menu{
        
         display: block;
     }
@@ -486,7 +486,7 @@ header .logo span{
 
 @media (max-width:500px){
     html{
-        font-size: 550%;
+        font-size: 50%;
        
     }
 
